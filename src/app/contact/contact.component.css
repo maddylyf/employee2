@@ -1,0 +1,13 @@
+.container-img img{
+  height: 400px;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+
+}

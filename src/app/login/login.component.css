@@ -1,0 +1,17 @@
+.container{
+  width:600px;
+  height:400px;
+  position:absolute;
+  top:20%;
+  background-color: khaki;
+}
+h2{
+  text-align: center;
+}
+.containerimg img{
+  height: 400px;
+  width: 400px;
+  position: relative;
+  top:0%;
+  left: 50%;
+}

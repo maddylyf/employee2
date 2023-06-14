@@ -1,0 +1,20 @@
+.container{
+position: absolute;
+right: 30%;
+background-color: antiquewhite;
+top:15%;
+
+}
+
+
+
+
+
+
+.img img{
+  width: 600px;
+  height: 455px;
+  position: absolute;
+
+  left: 60%;
+}
